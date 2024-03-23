@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <div>
   <a href="">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caio-ca&show_icons=true&theme=tokyonight">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ca&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-ca&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
